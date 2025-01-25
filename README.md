@@ -24,6 +24,8 @@ How to Use
 git clone https://github.com/your-repo-name/house-price-prediction.git
 
 2.Load the dataset in your Python script or Jupyter Notebook:
+
+
 import pandas as pd
 data = pd.read_csv('house_price_dataset_500.csv')
 print(data.head())
